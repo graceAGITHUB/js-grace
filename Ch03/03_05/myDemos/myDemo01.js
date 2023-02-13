@@ -20,4 +20,3 @@ var arrayOfStuff = [
 arrayOfStuff;
 
 arrayOfStuff.length;
-4
