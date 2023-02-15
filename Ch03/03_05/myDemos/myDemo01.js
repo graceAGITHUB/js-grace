@@ -18,5 +18,6 @@ var arrayOfStuff = [
     [1,2,3], true, false];
 
 arrayOfStuff;
+//arrayOfStuff;
 
 arrayOfStuff.length;
